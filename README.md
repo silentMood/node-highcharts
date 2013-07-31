@@ -1,5 +1,5 @@
 # node-highcharts
-
+updated to latest jquery and highstock&highcharts
 An example library demonstrating how a browser based JavaScript graphing library (Highcharts) can be used from Node.
 
 ## Usage
