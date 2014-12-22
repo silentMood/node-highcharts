@@ -5,11 +5,11 @@
   "author": "David Padbury <david@davidpadbury.com>",
   "repository": {
       "type": "git",
-      "url": "http://github.com/davidpadbury/node-highcharts.git" 
+      "url": "http://github.com/davidpadbury/node-highcharts.git"
   },
   "keywords": ["highcharts", "charts"],
   "dependencies": {
-    "jsdom": ">= 0.2.0"
+    "jsdom": "0.11.1"
   },
   "main": "./lib/node-highcharts",
   "engines": { "node": ">= 0.4.0" }
